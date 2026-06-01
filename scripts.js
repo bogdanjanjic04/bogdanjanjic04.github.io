@@ -128,7 +128,7 @@ async function loadProjectCount() {
     const user = await ghFetch('users/' + GH_USER);
     const el = document.getElementById('stat-projects');
     if (el && typeof user.public_repos === 'number') {
-      el.textContent = user.public_repos;
+      el.textContent = user.public_repos - 1;
     }
   } catch (_) {}
 }
