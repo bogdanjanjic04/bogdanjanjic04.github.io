@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://embermoose.github.io/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://embermoose.github.io/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://embermoose.github.io/work/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://embermoose.github.io/projects/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/ante-zero/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/pillars-of-control/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/campaignforge/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/akademskipratilac/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/graditelj-navika/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/passpolish/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/screenwatcher/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/kinetidebt/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/projects/headless-samp/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://embermoose.github.io/modding/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://embermoose.github.io/lab/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://embermoose.github.io/blog/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://embermoose.github.io/blog/chat-commands-smapi-commandmanager-reflection/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://embermoose.github.io/blog/firestore-memory-cache-save-hang/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://embermoose.github.io/blog/samp-server-rng-seed-recovery/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://embermoose.github.io/gallery/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://embermoose.github.io/faq/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://embermoose.github.io/contact/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://embermoose.github.io/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://embermoose.github.io/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>
