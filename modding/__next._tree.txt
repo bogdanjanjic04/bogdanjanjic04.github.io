@@ -1,3 +1,4 @@
-:HL["/_next/static/chunks/0sn5v0p_khz69.css","style"]
+:HL["/embermoose/_next/static/chunks/1dbkqsd1-105u.css","style"]
 :HL["https://fonts.bunny.net/css?family=bricolage-grotesque:500,600,700,800|ibm-plex-sans:400,500,600|ibm-plex-mono:400,500&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"modding","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"QwlYTrAUoSc0yTJ_qpM2l"}
+:HL["/embermoose/images/brand/embermoose_small_nobackground.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"modding","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"BqlQ7yAqEj3NepgOoDoog"}
