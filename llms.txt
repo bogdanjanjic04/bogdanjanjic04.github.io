@@ -1,7 +1,7 @@
 # Ember Moose
 
 > The personal build archive of Bogdan Janjić: software, games, mods and experiments.
-> Site: https://embermoose.github.io (source: https://github.com/bogdanjanjic04/embermoose)
+> Site: https://bogdanjanjic04.github.io (source: https://github.com/bogdanjanjic04/embermoose)
 
 A dark editorial developer portfolio for a final-year Applied IT student at Akademija strukovnih studija Zapadna Srbija, graduating late 2026. Built with Next.js (App Router), TypeScript and Tailwind CSS v4.
 
@@ -9,9 +9,9 @@ A dark editorial developer portfolio for a final-year Applied IT student at Akad
 
 - **Projects**: case studies for ANTE ZERO (playable card-table duel on itch.io, also packaged for Windows and Android), Pillars of Control (multiplayer-designed social strategy game in Godot 4.7, in development), CampaignForge (offline WPF toolkit for tabletop RPG game masters), AkademskiPratilac (Android study tracker), Graditelj Navika (Android habit builder), PassPolish (Polish-notation password-strength evaluator), ScreenWatcher (MediaProjection pixel-change watcher, MIT on GitHub), KinetiDebt (fitness debt tracker) and headless-samp (late-attach SA-MP client with a C++ RakNet bridge).
 - **Areas of work**: six pages, one per lane: application development (.NET/WPF/Dapper), Android (Kotlin/Compose/Hilt/Firebase/Room), game development (Godot/GDScript), systems & Linux (Arch/Bash/Wine), AI & local tooling (Ollama/GGUF/Claude Code), modding & reverse engineering (SMAPI/XNB/reflection).
-- **Modding field notes**: Stardew Valley SMAPI work: RenameAnimal, Chat Commands ported to SDV 1.6 via reflection into SMAPI's private CommandManager, SSH farmhand access over SSH.NET, an Ollama-powered Serbian localization pipeline, XNB texture replacement, SpriteFont diacritics investigation and Python save-file repair.
+- **Modding field notes**: Stardew Valley SMAPI work: RenameAnimal and Chat Commands ported to SDV 1.6 via reflection into SMAPI's private CommandManager.
 - **Lab**: local LLM workbench (Ollama/GGUF/templates/mmap patching), SA-MP server RNG research with seed recovery tooling in Python and C plus a disclosure validation harness, small Linux systems tools (system-monitor, log-analyzer, health-checker) and media/graphics experiments.
-- **Blog**: five undated devlog write-ups grounded strictly in shipped work.
+- **Blog**: two devlog write-ups grounded strictly in shipped work.
 - **Gallery**: hand-built SVG schematics of every build, honestly labeled as representations rather than screenshots.
 - **FAQ, contact, privacy policy, terms of use**, custom 404, sitemap.xml, robots.txt and llms.txt.
 
