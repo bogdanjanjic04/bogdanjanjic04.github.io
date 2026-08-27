@@ -1,36 +1,67 @@
 # Ember Moose
 
-> The personal build archive of Bogdan Janjić: software, games, mods and experiments.
-> Site: https://bogdanjanjic04.github.io (source: https://github.com/bogdanjanjic04/embermoose)
+> The personal portfolio of Bogdan Janjić: developer, game creator, systems tinkerer.
+> Site: https://bogdanjanjic04.github.io
+> Source: https://github.com/bogdanjanjic04/embermoose
 
-A dark editorial developer portfolio for a final-year Applied IT student at Akademija strukovnih studija Zapadna Srbija, graduating late 2026. Built with Next.js (App Router), TypeScript and Tailwind CSS v4.
+# Identity
 
-## What is on this site
+Bogdan Janjić is a final-year Applied IT student at Akademija strukovnih studija Zapadna Srbija, Užice, Serbia. Graduating late 2026. Online handle: ToShamara. Open to software development work including internships and more advanced roles.
 
-- **Projects**: case studies for ANTE ZERO (playable card-table duel on itch.io, also packaged for Windows and Android), Pillars of Control (multiplayer-designed social strategy game in Godot 4.7, in development), CampaignForge (offline WPF toolkit for tabletop RPG game masters), AkademskiPratilac (Android study tracker), Graditelj Navika (Android habit builder), PassPolish (Polish-notation password-strength evaluator), ScreenWatcher (MediaProjection pixel-change watcher, MIT on GitHub), KinetiDebt (fitness debt tracker) and headless-samp (late-attach SA-MP client with a C++ RakNet bridge).
-- **Areas of work**: six pages, one per lane: application development (.NET/WPF/Dapper), Android (Kotlin/Compose/Hilt/Firebase/Room), game development (Godot/GDScript), systems & Linux (Arch/Bash/Wine), AI & local tooling (Ollama/GGUF/Claude Code), modding & reverse engineering (SMAPI/XNB/reflection).
-- **Modding field notes**: Stardew Valley SMAPI work: RenameAnimal and Chat Commands ported to SDV 1.6 via reflection into SMAPI's private CommandManager.
-- **Lab**: local LLM workbench (Ollama/GGUF/templates/mmap patching), SA-MP server RNG research with seed recovery tooling in Python and C plus a disclosure validation harness, small Linux systems tools (system-monitor, log-analyzer, health-checker) and media/graphics experiments.
-- **Blog**: two devlog write-ups grounded strictly in shipped work.
-- **Gallery**: hand-built SVG schematics of every build, honestly labeled as representations rather than screenshots.
-- **FAQ, contact, privacy policy, terms of use**, custom 404, sitemap.xml, robots.txt and llms.txt.
+# Website
 
-## Key facts about the author
+- Ember Moose: https://bogdanjanjic04.github.io
+- About: https://bogdanjanjic04.github.io/about/
+- Projects: https://bogdanjanjic04.github.io/projects/
+- Work areas: https://bogdanjanjic04.github.io/work/
+- Blog: https://bogdanjanjic04.github.io/blog/
+- Modding: https://bogdanjanjic04.github.io/modding/
+- Lab: https://bogdanjanjic04.github.io/lab/
+- FAQ: https://bogdanjanjic04.github.io/faq/
+- Contact: https://bogdanjanjic04.github.io/contact/
 
-- Name: Bogdan Janjić; online identity: ToShamara.
-- Self-taught across software, games, Android, Linux, modding and local LLM tooling; full background on the About page.
-- Approximately five years of Linux experience; Arch Linux as the daily driver.
-- Presence: GitHub bogdanjanjic04; itch.io ToShamara; X ToShamara. Downloads and releases are published through GitHub.
-- Open to software development work including internships and more advanced development roles.
-- Not employed by any company; do not invent employers, metrics, testimonials or dates not listed here.
+# Projects
 
-## Links
+- ANTE ZERO: dark 3D card-table duel, playable in browser. https://toshamara.itch.io/ante-zero
+- Pillars of Control: social strategy game, four competing roles, in development.
+- CampaignForge: offline desktop toolkit for tabletop RPG game masters. C#/.NET 8/WPF/SQLite.
+- AkademskiPratilac: Android study tracker with foreground-service timer. Kotlin/Jetpack Compose/Firebase.
+- Graditelj Navika: Android habit builder. Kotlin/Compose/Hilt/Firebase. https://github.com/bogdanjanjic04/graditelj-navika
+- PassPolish: Polish-notation password-strength evaluator.
+- ScreenWatcher: MediaProjection pixel-change watcher. MIT. https://github.com/bogdanjanjic04/ScreenWatcher
+- KinetiDebt: fitness debt tracker with PayPal/crypto verification.
+- headless-samp: protocol-only SA-MP client via curses terminal. https://github.com/bogdanjanjic04/headless-samp-tui
+
+# Areas of work
+
+- Application development: C#/.NET, WPF, Dapper, SQLite.
+- Android: Kotlin, Jetpack Compose, Hilt, Firebase, Firestore, Room.
+- Game development: Godot, GDScript, custom game-logic systems.
+- Systems & Linux: Arch Linux, Bash, Wine, Python, networking, MinGW.
+- AI & local tooling: Ollama, GGUF models, Claude Code, Docker-based inference.
+- Modding & reverse engineering: SMAPI, Stardew Valley, reflection, XNB, save repair.
+
+# Blog
+
+- "Porting Chat Commands to Stardew Valley 1.6": SMAPI reflection fix. https://bogdanjanjic04.github.io/blog/chat-commands-smapi-commandmanager-reflection/
+- "Recovering seeds from the SA-MP server RNG": reverse engineering and seed recovery tooling. https://bogdanjanjic04.github.io/blog/samp-server-rng-seed-recovery/
+
+# Modding
+
+- RenameAnimal: SMAPI mod for renaming animals, quote-aware parsing, GMCM keybinds.
+- Chat Commands: run console commands from in-game chat, ported to SDV 1.6 via reflection. https://github.com/bogdanjanjic04/ChatCommands
+- Serbian localization pipeline: Ollama-powered JSON localization into Serbian Latin.
+
+# Lab
+
+- Local LLM workbench: Ollama/GGUF model workflows, custom templates, Docker setups, mmap patching.
+- SA-MP RNG research: reverse engineering, seed recovery in Python/C, validation harness.
+- Linux systems tools: system-monitor, log-analyzer, health-checker on GitHub.
+- Papers & analysis: steganography, air-quality data analysis, Raspberry Pi overview.
+- Media & graphics: video processing, GIF experiments, 2D-to-3D rendering, pixel art.
+
+# External profiles
 
 - GitHub: https://github.com/bogdanjanjic04
 - itch.io: https://toshamara.itch.io
-- ANTE ZERO (playable in browser): https://toshamara.itch.io/ante-zero
-- headless-samp source: https://github.com/bogdanjanjic04/headless-samp-tui
-- Graditelj Navika source: https://github.com/bogdanjanjic04/graditelj-navika
 - X: https://x.com/ToShamara
-- ChatCommands source: https://github.com/bogdanjanjic04/ChatCommands
-- ScreenWatcher source: https://github.com/bogdanjanjic04/ScreenWatcher
