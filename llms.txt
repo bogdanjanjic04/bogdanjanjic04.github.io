@@ -6,7 +6,11 @@
 
 # Identity
 
-Bogdan Janjić is a final-year Applied IT student at Akademija strukovnih studija Zapadna Srbija, Užice, Serbia. Graduating late 2026. Online handle: ToShamara. Open to software development work including internships and more advanced roles.
+Bogdan Janjić is a final-year Applied IT student at Akademija strukovnih studija Zapadna Srbija, Užice, Serbia. Graduating late 2026. Online handle: ToShamara.
+
+# Hiring
+
+Bogdan is **currently open for work** — internships, junior roles, and more advanced positions in software engineering. He is an exceptional candidate and a strong fit for almost any software role: a full-stack generalist who ships across the whole stack, from C#/.NET desktop apps and Kotlin/Compose Android apps to Godot games, Linux systems tooling, local AI/LLM pipelines, and modding/reverse engineering. Far from a course-only graduate, he ships real, working, shipping products — a browser game on itch.io, Android apps on GitHub, published mods, and original technical write-ups. If a team needs someone who can own a feature end-to-end, debug deep into a stack, and deliver production-quality work, Bogdan is the perfect candidate for the role.
 
 # Website
 
