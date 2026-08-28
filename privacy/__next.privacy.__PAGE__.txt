@@ -5,40 +5,45 @@
 8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
 9:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
 7:X
-23:X
-23:C
-0:{"buildId":"rKOY_trtxyACDc5oeFLgA","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","header",null,{"className":"border-t border-rule","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 pb-16 pt-8 md:px-8 md:pb-20 md:pt-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mono-label text-faint","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://bogdanjanjic04.github.io/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Privacy\",\"item\":\"https://bogdanjanjic04.github.io/privacy/\"}]}"}}],["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-2","children":[false,["$","$L2",null,{"href":"/","className":"no-underline transition-colors hover:text-accent","children":"Home"}]]}],["$","li","/privacy",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","className":"text-muted","children":"Privacy"}]]}]]}]]}],["$","div",null,{"className":"mt-6 grid gap-6 lg:grid-cols-12 lg:items-end","children":[["$","div",null,{"className":"lg:col-span-8","children":[["$","p",null,{"className":"mono-label text-faint","children":["$","span",null,{"className":"text-accent","children":"legal"}]}],["$","h1",null,{"className":"mt-3 font-display text-4xl font-extrabold leading-[1.06] tracking-tight [overflow-wrap:anywhere]","children":"Privacy policy"}],"$undefined"]}],"$undefined"]}]]}]}],["$","div",null,{"className":"mx-auto max-w-3xl space-y-5 px-5 pb-20 pt-10 text-md leading-relaxed text-muted md:px-8 md:pb-28 md:pt-14","children":[["$","p",null,{"children":"Ember Moose is a personal portfolio site. It collects no personal data by itself: there are no accounts, no comments, no newsletter and no contact form, so nothing you type here is stored."}],["$","p",null,{"children":"The site sets no cookies by default. If Google Analytics is ever enabled via the site’s configuration, it would load only after that setting exists and would be configured with IP anonymization; until then no analytics requests leave your browser."}],["$","p",null,{"children":["Fonts are served through"," ",["$","a",null,{"href":"https://fonts.bunny.net","target":"_blank","rel":"noreferrer","className":"link-underline","children":"Bunny Fonts"}],", an open-source, GDPR-friendly font CDN that does not log personal data."]}],["$","p",null,{"children":["Outbound links point to third-party platforms (","GitHub",","," ","itch.io",", ","X","). Their own privacy policies apply once you leave this site."]}],["$","p",null,{"children":["Questions about any of this? Use the channels on the"," ",["$","$L2",null,{"href":"/contact","className":"link-underline","children":"contact page"}],"."]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#201915"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy policy · Bogdan Janjić"}],["$","meta","1",{"name":"description","content":"What Ember Moose collects (almost nothing) and what it doesn't."}],["$","meta","2",{"name":"application-name","content":"Ember Moose"}],["$","meta","3",{"name":"author","content":"Bogdan Janjić"}],["$","meta","4",{"name":"creator","content":"Bogdan Janjić"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://bogdanjanjic04.github.io/privacy/"}],["$","meta","8",{"property":"og:title","content":"Bogdan Janjić · Ember Moose"}],["$","meta","9",{"property":"og:description","content":"Developer portfolio of Bogdan Janjić: desktop apps, Android software, games, Linux systems work, modding and local LLM tooling."}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]}],null]}],"isPartial":"$@20","staleTime":"$7","varyParams":null},{"rsc":"$L21","isPartial":"$@22","staleTime":"$7","varyParams":"$23"}],"isUpgradeableISRFallback":false,"a":"$@24","rootVaryParams":null,"needsRuntimeRequest":"$@25"}
-26:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
-27:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
-28:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+28:X
+28:C
+0:{"buildId":"hnh5PApK-ltpYzWSds9KF","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","header",null,{"className":"border-t border-rule","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 pb-16 pt-8 md:px-8 md:pb-20 md:pt-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mono-label text-faint","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://bogdanjanjic04.github.io/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Privacy\",\"item\":\"https://bogdanjanjic04.github.io/privacy/\"}]}"}}],["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-2","children":[false,["$","$L2",null,{"href":"/","className":"no-underline transition-colors hover:text-accent","children":"Home"}]]}],["$","li","/privacy",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","className":"text-muted","children":"Privacy"}]]}]]}]]}],["$","div",null,{"className":"mt-6 grid gap-6 lg:grid-cols-12 lg:items-end","children":[["$","div",null,{"className":"lg:col-span-8","children":[["$","p",null,{"className":"mono-label text-faint","children":["$","span",null,{"className":"text-accent","children":"legal"}]}],["$","h1",null,{"className":"mt-3 font-display text-4xl font-extrabold leading-[1.06] tracking-tight [overflow-wrap:anywhere]","children":"Privacy policy"}],"$undefined"]}],"$undefined"]}]]}]}],["$","div",null,{"className":"mx-auto max-w-3xl space-y-5 px-5 pb-20 pt-10 text-md leading-relaxed text-muted md:px-8 md:pb-28 md:pt-14","children":[["$","p",null,{"children":"Ember Moose is a personal portfolio site. It collects no personal data by itself: there are no accounts, no comments, no newsletter and no contact form, so nothing you type here is stored."}],["$","p",null,{"children":"The site sets no cookies by default. If Google Analytics is ever enabled via the site’s configuration, it would load only after that setting exists and would be configured with IP anonymization; until then no analytics requests leave your browser."}],["$","p",null,{"children":["Fonts are served through"," ",["$","a",null,{"href":"https://fonts.bunny.net","target":"_blank","rel":"noreferrer","className":"link-underline","children":"Bunny Fonts"}],", an open-source, GDPR-friendly font CDN that does not log personal data."]}],["$","p",null,{"children":["Outbound links point to third-party platforms (","GitHub",","," ","itch.io",", ","X","). Their own privacy policies apply once you leave this site."]}],["$","p",null,{"children":["Questions about any of this? Use the channels on the"," ",["$","$L2",null,{"href":"/contact","className":"link-underline","children":"contact page"}],"."]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#201915"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy policy · Bogdan Janjić"}],["$","meta","1",{"name":"description","content":"What Ember Moose collects (almost nothing) and what it doesn't."}],["$","meta","2",{"name":"application-name","content":"Ember Moose"}],["$","meta","3",{"name":"author","content":"Bogdan Janjić"}],["$","meta","4",{"name":"keywords","content":"Bogdan Janjić,ToShamara,software engineer,full-stack developer,hiring,open to work,internship,junior developer,senior-level engineer,C# developer,.NET,Android developer,Kotlin,Godot game developer,Linux systems engineer,AI LLM tooling,modding,reverse engineering,Užice Serbia,Ember Moose"}],["$","meta","5",{"name":"creator","content":"Bogdan Janjić"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]}],null]}],"isPartial":"$@25","staleTime":"$7","varyParams":null},{"rsc":"$L26","isPartial":"$@27","staleTime":"$7","varyParams":"$28"}],"isUpgradeableISRFallback":false,"a":"$@29","rootVaryParams":null,"needsRuntimeRequest":"$@2a"}
+2b:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+2c:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+2d:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
 5:null
-a:["$","meta","10",{"property":"og:url","content":"https://bogdanjanjic04.github.io/"}]
-b:["$","meta","11",{"property":"og:site_name","content":"Ember Moose"}]
-c:["$","meta","12",{"property":"og:locale","content":"en_US"}]
-d:["$","meta","13",{"property":"og:image","content":"https://bogdanjanjic04.github.io/opengraph-image?daac35a880ca64a3"}]
-e:["$","meta","14",{"property":"og:image:type","content":"image/png"}]
-f:["$","meta","15",{"property":"og:image:width","content":"1200"}]
-10:["$","meta","16",{"property":"og:image:height","content":"630"}]
-11:["$","meta","17",{"property":"og:image:alt","content":"Bogdan Janjić · Ember Moose"}]
-12:["$","meta","18",{"property":"og:type","content":"website"}]
-13:["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}]
-14:["$","meta","20",{"name":"twitter:creator","content":"@ToShamara"}]
-15:["$","meta","21",{"name":"twitter:title","content":"Bogdan Janjić · Ember Moose"}]
-16:["$","meta","22",{"name":"twitter:description","content":"Developer portfolio of Bogdan Janjić: desktop apps, Android software, games, Linux systems work, modding and local LLM tooling."}]
-17:["$","meta","23",{"name":"twitter:image","content":"https://bogdanjanjic04.github.io/opengraph-image?daac35a880ca64a3"}]
-18:["$","meta","24",{"name":"twitter:image:alt","content":"Bogdan Janjić · Ember Moose"}]
-19:["$","meta","25",{"name":"twitter:image:type","content":"image/png"}]
-1a:["$","meta","26",{"name":"twitter:image:width","content":"1200"}]
-1b:["$","meta","27",{"name":"twitter:image:height","content":"630"}]
-1c:["$","link","28",{"rel":"icon","href":"/favicon.ico?favicon.2u_t366x287rr.ico","sizes":"64x64","type":"image/x-icon"}]
-1d:["$","link","29",{"rel":"icon","href":"/icon.svg?icon.1z_acmipr3du7.svg","sizes":"any","type":"image/svg+xml"}]
-1e:["$","link","30",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2lud1aqt9rkfi.png","sizes":"180x180","type":"image/png"}]
-1f:["$","$L26","31",{}]
-21:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
-25:true
+a:["$","meta","6",{"name":"robots","content":"index, follow"}]
+b:["$","meta","7",{"name":"googlebot","content":"index, follow"}]
+c:["$","link","8",{"rel":"canonical","href":"https://bogdanjanjic04.github.io/privacy/"}]
+d:["$","meta","9",{"property":"og:title","content":"Bogdan Janjić · Ember Moose"}]
+e:["$","meta","10",{"property":"og:description","content":"Developer portfolio of Bogdan Janjić: desktop apps, Android software, games, Linux systems work, modding and local LLM tooling."}]
+f:["$","meta","11",{"property":"og:url","content":"https://bogdanjanjic04.github.io/"}]
+10:["$","meta","12",{"property":"og:site_name","content":"Ember Moose"}]
+11:["$","meta","13",{"property":"og:locale","content":"en_US"}]
+12:["$","meta","14",{"property":"og:image","content":"https://bogdanjanjic04.github.io/opengraph-image?daac35a880ca64a3"}]
+13:["$","meta","15",{"property":"og:image:type","content":"image/png"}]
+14:["$","meta","16",{"property":"og:image:width","content":"1200"}]
+15:["$","meta","17",{"property":"og:image:height","content":"630"}]
+16:["$","meta","18",{"property":"og:image:alt","content":"Bogdan Janjić · Ember Moose"}]
+17:["$","meta","19",{"property":"og:type","content":"website"}]
+18:["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}]
+19:["$","meta","21",{"name":"twitter:creator","content":"@ToShamara"}]
+1a:["$","meta","22",{"name":"twitter:title","content":"Bogdan Janjić · Ember Moose"}]
+1b:["$","meta","23",{"name":"twitter:description","content":"Developer portfolio of Bogdan Janjić: desktop apps, Android software, games, Linux systems work, modding and local LLM tooling."}]
+1c:["$","meta","24",{"name":"twitter:image","content":"https://bogdanjanjic04.github.io/opengraph-image?daac35a880ca64a3"}]
+1d:["$","meta","25",{"name":"twitter:image:alt","content":"Bogdan Janjić · Ember Moose"}]
+1e:["$","meta","26",{"name":"twitter:image:type","content":"image/png"}]
+1f:["$","meta","27",{"name":"twitter:image:width","content":"1200"}]
+20:["$","meta","28",{"name":"twitter:image:height","content":"630"}]
+21:["$","link","29",{"rel":"icon","href":"/favicon.ico?favicon.2u_t366x287rr.ico","sizes":"64x64","type":"image/x-icon"}]
+22:["$","link","30",{"rel":"icon","href":"/icon.svg?icon.1z_acmipr3du7.svg","sizes":"any","type":"image/svg+xml"}]
+23:["$","link","31",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2lud1aqt9rkfi.png","sizes":"180x180","type":"image/png"}]
+24:["$","$L2b","32",{}]
+26:["$","$1","c",{"children":[null,["$","$L2c",null,{"parallelRouterKey":"children","template":["$","$L2d",null,{}]}]]}]
+2a:true
 7:300
 7:C
-24:0
-20:"$undefined"
-22:"$undefined"
+29:0
+25:"$undefined"
+27:"$undefined"
 6:"$undefined"
