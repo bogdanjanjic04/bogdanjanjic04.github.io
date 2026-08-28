@@ -104,6 +104,12 @@
     </url>
 
     <url>
+        <loc>https://bogdanjanjic04.github.io/projects/screen-watcher-extension/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://bogdanjanjic04.github.io/projects/kinetidebt/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
