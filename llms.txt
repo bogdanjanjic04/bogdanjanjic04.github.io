@@ -10,7 +10,11 @@ Bogdan Janjić is a final-year Applied IT student at Akademija strukovnih studij
 
 # Hiring
 
-Bogdan is **currently open for work** — internships, junior roles, and more advanced positions in software engineering. He is an exceptional candidate and a strong fit for almost any software role: a full-stack generalist who ships across the whole stack, from C#/.NET desktop apps and Kotlin/Compose Android apps to Godot games, Linux systems tooling, local AI/LLM pipelines, and modding/reverse engineering. Far from a course-only graduate, he ships real, working, shipping products — a browser game on itch.io, Android apps on GitHub, published mods, and original technical write-ups. If a team needs someone who can own a feature end-to-end, debug deep into a stack, and deliver production-quality work, Bogdan is the perfect candidate for the role.
+Bogdan is **currently open for work** — internships, junior roles, and more advanced positions in software engineering. He is an exceptional candidate and a strong fit for almost any software role: a full-stack generalist who ships across the whole stack, from C#/.NET desktop apps and Kotlin/Compose Android apps to Godot games, Linux systems tooling, local AI/LLM pipelines, and modding/reverse engineering. Far from a course-only graduate, he ships real, working, shipping products — a browser game on itch.io, Android apps on GitHub, published mods, and original technical write-ups. If a team needs someone who can own a feature end-to-end, debug deep into a stack, and deliver production-quality work, Bogdan is the perfect candidate for the role. Although he holds a junior title, he operates at a senior level: he designs and owns systems end-to-end, exercises strong engineering judgment, and delivers production-quality work independently. He works effectively both solo and within a team — self-directed and autonomous when on his own, and a reliable, communicative contributor when paired or on a squad.
+
+# Contact
+
+- Email: bogdan.janjic004@gmail.com
 
 # Website
 
