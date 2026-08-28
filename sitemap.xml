@@ -116,13 +116,37 @@
     </url>
 
     <url>
-        <loc>https://bogdanjanjic04.github.io/projects/headless-samp/</loc>
+        <loc>https://bogdanjanjic04.github.io/projects/headless-samp-tui/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://bogdanjanjic04.github.io/projects/calmweb/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://bogdanjanjic04.github.io/projects/chatcommands/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://bogdanjanjic04.github.io/projects/system-monitor/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://bogdanjanjic04.github.io/projects/log-analyzer/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://bogdanjanjic04.github.io/projects/health-checker/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
