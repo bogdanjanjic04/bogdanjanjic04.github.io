@@ -2,4 +2,4 @@
 :HL["https://fonts.bunny.net/css?family=bricolage-grotesque:500,600,700,800|ibm-plex-sans:400,500,600|ibm-plex-mono:400,500&display=swap","style"]
 :HL["/images/brand/embermoose_small_nobackground.svg","image"]
 :HL["/images/projects/screen-watcher-extension-popup.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"screen-watcher-extension","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"OTPERA0o0w0tgLkaElx4R"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"screen-watcher-extension","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"G_MAmZeYci_mJzCF3QcTF"}
