@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bogdan Janjić — I finish and fix software that got stuck</title>
+<meta name="description" content="Fixed-price rescue, completion and maintenance for web apps, Android apps and Godot games. Clear scope, clear price, delivery in days.">
+<style>
+:root{--bg:#f7f6f2;--ink:#17181c;--muted:#5d616b;--line:#dcd9d0;--card:#fff;--accent:#0b5d4f;--accent-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#121316;--ink:#eceae4;--muted:#a2a6b0;--line:#2b2d33;--card:#1a1c20;--accent:#5fd0b6;--accent-ink:#0c1512}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:920px;margin:0 auto;padding:0 20px}
+header{padding:72px 0 40px}
+h1{font-size:clamp(2rem,5.4vw,3.3rem);line-height:1.1;letter-spacing:-.02em;margin:0 0 18px;text-wrap:balance}
+h2{font-size:1.5rem;letter-spacing:-.01em;margin:56px 0 18px}
+h3{font-size:1.1rem;margin:0 0 6px}
+p{margin:0 0 14px}
+.lead{font-size:1.2rem;color:var(--muted);max-width:60ch}
+.btn{display:inline-block;margin-top:14px;padding:13px 22px;border-radius:8px;background:var(--accent);color:var(--accent-ink);font-weight:600;text-decoration:none}
+.btn.ghost{background:none;color:var(--ink);border:1px solid var(--line);margin-left:8px}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px}
+.price{font-size:1.5rem;font-weight:700;margin:8px 0}
+.price small{font-size:.85rem;font-weight:500;color:var(--muted)}
+ul{margin:8px 0 0;padding-left:20px}
+li{margin-bottom:5px}
+.muted{color:var(--muted)}
+ol.steps{padding-left:22px}
+ol.steps li{margin-bottom:10px}
+a{color:var(--accent)}
+footer{margin:64px 0 40px;padding-top:22px;border-top:1px solid var(--line);color:var(--muted);font-size:.92rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Your app is 80% done and stuck. I finish it.</h1>
+  <p class="lead">I take over half-built or AI-generated web apps, Android apps and Godot games, fix what is broken, and ship them. Fixed scope, fixed price, delivered in days.</p>
+  <a class="btn" href="mailto:bogdan.janjic004@gmail.com?subject=Project%20rescue&body=Link%20to%20the%20repo%20or%20app%3A%0AWhat%20is%20broken%20or%20missing%3A%0ADeadline%3A">Send me your project</a>
+  <a class="btn ghost" href="https://github.com/bogdanjanjic04">See my code</a>
+</header>
+
+<section>
+  <h2>What I do</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Code audit</h3>
+      <div class="price">$250 <small>· 48 hours</small></div>
+      <p class="muted">For when you do not know how bad it is.</p>
+      <ul>
+        <li>I read the whole codebase and run it</li>
+        <li>Written report: bugs, security holes, what blocks launch</li>
+        <li>Fixed-price quote for the repair</li>
+        <li>Fee credited if you hire me for the fix</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Rescue and ship</h3>
+      <div class="price">$900–2,500 <small>· 5–10 days</small></div>
+      <p class="muted">For an app that almost works.</p>
+      <ul>
+        <li>Fix the bugs that block launch</li>
+        <li>Auth, payments, database, deployment done properly</li>
+        <li>Tests on the paths that earn you money</li>
+        <li>Handover notes so anyone can maintain it</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Keep it running</h3>
+      <div class="price">$500 <small>/ month</small></div>
+      <p class="muted">For a live product without a developer.</p>
+      <ul>
+        <li>Bug fixes and small features, up to 12 hours</li>
+        <li>Dependency and security updates</li>
+        <li>Reply within one working day</li>
+        <li>Cancel any month</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>What I work with</h2>
+  <div class="grid">
+    <div class="card"><h3>Web</h3><p class="muted">TypeScript, Node.js, Express, React, Vite, MongoDB, SQL, REST APIs, JWT auth, Docker, Linux servers.</p></div>
+    <div class="card"><h3>Android</h3><p class="muted">Kotlin, Jetpack Compose, Material 3, Hilt, Coroutines, Firebase Auth and Firestore.</p></div>
+    <div class="card"><h3>Games</h3><p class="muted">Godot 4, GDScript, game AI, automated balance testing, Steam and UDP multiplayer, mods for existing games.</p></div>
+    <div class="card"><h3>Hard problems</h3><p class="muted">C, C++, Rust, C#/.NET, reverse engineering of file formats and protocols, performance and security debugging.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Things I built alone</h2>
+  <div class="grid">
+    <div class="card"><h3>Pillars of Control</h3><p class="muted">Social-strategy game for 1–4 players in Godot 4, about 10,000 lines, with AI opponents, Steam multiplayer and a headless test runner used to balance win rates.</p></div>
+    <div class="card"><h3>GTA: San Andreas on native Linux</h3><p class="muted">Reimplementation of the game runtime in C++ with parsers for the original data formats and a native renderer.</p></div>
+    <div class="card"><h3>Graditelj Navika</h3><p class="muted">Android habit tracker in Kotlin and Jetpack Compose with MVI architecture and a per-user Firestore data layer.</p></div>
+    <div class="card"><h3>liveaudio</h3><p class="muted">Browser push-to-talk room streamed as one continuous MP3 over HTTP, built on Node.js, FFmpeg and the Web Audio API.</p></div>
+    <div class="card"><h3>Graveyard Keeper Multiplayer</h3><p class="muted">Co-op mod that adds networking to a single-player game, with Steam and UDP transports and state synchronisation.</p></div>
+    <div class="card"><h3>ANTE ZERO</h3><p class="muted">3D card-table duel that runs in the browser. <a href="https://toshamara.itch.io/ante-zero">Play it on itch.io</a>.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>How it works</h2>
+  <ol class="steps">
+    <li><strong>You send the repo or a link</strong> and tell me what is broken or missing.</li>
+    <li><strong>I reply within one working day</strong> with questions or a fixed price and a delivery date.</li>
+    <li><strong>You pay half up front</strong>, the rest when it works. On Upwork or Contra the platform holds the money in escrow instead.</li>
+    <li><strong>I deliver</strong> working code, deployed if you want, with notes on what changed and why.</li>
+  </ol>
+  <p class="muted">I work in English and Serbian, on Central European Time, and I use AI coding tools heavily, which is why the turnaround is days and not weeks. I review and test everything I ship.</p>
+  <a class="btn" href="mailto:bogdan.janjic004@gmail.com?subject=Project%20rescue">bogdan.janjic004@gmail.com</a>
+</section>
+
+<footer>
+  Bogdan Janjić · Užice, Serbia ·
+  <a href="https://github.com/bogdanjanjic04">GitHub</a> ·
+  <a href="https://toshamara.itch.io">itch.io</a> ·
+  <a href="https://bogdanjanjic04.github.io">Portfolio</a>
+</footer>
+
+</div>
+</body>
+</html>
